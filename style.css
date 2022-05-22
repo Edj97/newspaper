@@ -1,0 +1,85 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+
+background-color: #5c5858;
+}
+H1 {
+    width:  1300PX ;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 8px;
+     background-color: #c7c5c5;
+    
+}
+.main {
+  
+    width: 1300PX;
+   
+    height: 550px;
+    border: 2px solid black;
+    margin-left: 20px;
+  margin-top: 20px;
+     
+   background-color: #82817f;
+    position: relative;
+  top: -15px;
+    
+}
+.first{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+    background-color: #c7c5c5;
+    
+}
+
+.second{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+     background-color: #c7c5c5;
+}
+
+.third{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+   background-color: #c7c5c5;
+}
+.foe{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+   background-color: #c7c5c5;
+}
+hr {
+    color: black;
+}
